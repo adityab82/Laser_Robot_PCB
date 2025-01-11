@@ -12,5 +12,5 @@ This project involves the design and implementation of a **dual H-bridge circuit
 All images related to the project, including PCB schematics, layout, 3D rendering and final soldered board, can be found in the `Img` folder.
 
 ## Tools Used
-- **KiCad**: For schematic capture and PCB layout.
+- **KiCad**: For schematic capture and PCB layout. 
 - **Oscilloscope & Multimeter**: For testing and debugging.
